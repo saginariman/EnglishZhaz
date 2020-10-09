@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="main_name">EnglishZhaz</string>
+    <string name="avthor_name">Created by Nariman Sagiden</string>
+    <string name="name_button1">Бастау</string>
+    <string name="name_level1">Көп қолданылатын 100 етістік</string>
+    <string name="name_level2">Көп қолданылатын сын есімдер</string>
+    <string name="name_level3">Көп қолданылатын 100 зат есімдер</string>
+    <string name="name_level4">Күнделікті сөйлеу фразалары</string>
+    <string name="name_back">артқа</string>
+    <string name="name_word_panel">Тізім</string>
+    <string name="top_words1">level 1: TOP 20</string>
+    <string name="top_words2">level 2: TOP 20</string>
+    <string name="top_words3">level 3: TOP 20</string>
+    <string name="top_words4">level 4: TOP 20</string>
+    <string name="top_words5">level 5: TOP 20</string>
+    <string name="English_movie">English movies</string>
+</resources>
